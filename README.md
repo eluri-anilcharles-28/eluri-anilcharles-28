@@ -1,5 +1,5 @@
 # 📑 About Me:
-hey I’m Charles , a systems driven learner operating at the intersection of software, engineering, and deep logic. I focus on building high efficiency solutions, reverse engineering problems, and pushing technical boundaries with a bias toward execution.      <br><br>Currently expanding my footprint across C, Python, embedded systems, networking fundamentals. I architect, test, and optimize with an analytical mindset INTP precision meets real-world engineering rigor.<br><br>I was Driven by curiosity and i am a Polymath and a Self Learner. 
+Hey I’m Charles , a systems driven learner operating at the intersection of software, engineering, and deep logic. I focus on building high efficiency solutions, reverse engineering problems, and pushing technical boundaries with a bias toward execution.      <br><br>Currently expanding my footprint across C, Python, embedded systems, networking fundamentals. I architect, test, and optimize with an analytical mindset INTP precision meets real-world engineering rigor.<br><br>I was Driven by curiosity and i am a Polymath and a Self Learner. 
 
 
 ## 🌐 Socials:
